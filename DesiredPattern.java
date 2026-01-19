@@ -1,4 +1,4 @@
-public class Melengkapikode {
+public class DesiredPattern {
 
     public static void main(String[] args) {
 
